@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-conditions-refactoring-simplify-chain-of-or-and-and
 
-## Text
+## You have chain of conditions with AND operators. Try merge it to one condition.(tip: use OR operator)
 
 ## Criteria:
 
